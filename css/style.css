@@ -11,11 +11,6 @@ body {
   font-size: 14px;
   color: #4e3914;
 }
-.main-logo{
-    position: relative;
-	height: 100px;
-	width: 100px;
-  }
 
 @media (min-width: 992px) {
   body {
@@ -633,7 +628,6 @@ footer p {
 	color: #fff;
 	padding: 0px 15px;
 }
-
 
 @media (min-width:768px) and (max-width:991px){
 	.navbar-expand-lg.top-nav .navbar-nav .nav-link.dropdown-toggle::after{
